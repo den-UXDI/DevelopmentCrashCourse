@@ -6,7 +6,7 @@ Could you acept a blueprint from an architect that didn't know the difference be
 The tech industry is slowly waking up to this reality - and it's time to get in front of it!
 
 
-## How much do I need to know?
+## How much do I need to know???
 The answer, of course, is as much as possible. Realistically, we're going to cover a few key points:
 
 1. What the internet is, and how does it works
